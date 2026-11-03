@@ -1,0 +1,3 @@
+- insert:
+    - id: chatgpt-panel
+      name: '@local/dsh-chatgpt-panel'

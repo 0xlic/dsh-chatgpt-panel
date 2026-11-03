@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="ChatGPT panel">
+  <rect width="64" height="64" rx="14" fill="#0f766e"/>
+  <path d="M19 21h26a7 7 0 0 1 7 7v12a7 7 0 0 1-7 7H34l-9 7v-7h-6a7 7 0 0 1-7-7V28a7 7 0 0 1 7-7Z" fill="#ffffff" fill-opacity="0.95"/>
+  <path d="M32 25.5l2.1 5.6 5.6 2.1-5.6 2.1-2.1 5.6-2.1-5.6-5.6-2.1 5.6-2.1 2.1-5.6Z" fill="#0f766e"/>
+</svg>
